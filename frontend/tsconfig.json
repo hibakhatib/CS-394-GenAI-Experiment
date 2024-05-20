@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "lib": ["ESNext", "DOM"],
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "outDir": "./dist"
+    },
+    "include": ["./**/*.ts"]
+  }
+  
